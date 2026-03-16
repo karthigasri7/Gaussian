@@ -14,11 +14,7 @@ Print the solution vector x[i].
 
 ## Program:
 ```
-/*
-/*
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: Ajithkumar .J
-RegisterNumber: 212225040015
+
 import numpy as np
 import sys
 n=int(input())
@@ -44,7 +40,7 @@ for i in range(n-2,-1,-1):
 for i in range(n):
     print(f"X{i} = {x[i]:.2f}", end =' ')
     
-*/
+
 ```
 
 ## Output:
